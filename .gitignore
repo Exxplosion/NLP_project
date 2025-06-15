@@ -7,3 +7,5 @@ __pycache__/
 
 .ipynb_checkpoints/
 *.nbconvert.ipynb
+
+.python-version
